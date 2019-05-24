@@ -2,6 +2,10 @@
     "user": "ziggi",
     "repo": "FCNPC",
     "include_path": "sampsvr_files",
+    "dependencies": [
+		"Pottus/ColAndreas",
+		"Southclaws/samp-plugin-mapandreas"
+    ],
     "resources": [
         {
             "name": "^FCNPC-(.+).zip$",
